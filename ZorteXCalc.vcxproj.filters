@@ -27,6 +27,15 @@
     <ClCompile Include="basicUIs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="tradArth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="app.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainframe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="vals.h">
@@ -36,6 +45,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="basicUIs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tradArth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="app.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mainframe.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

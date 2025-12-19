@@ -3,7 +3,7 @@
 class basicUIs :public basicArth
 {
 public:
-	basicUIs(int, int);
+	basicUIs(int, int, int);
 	void menu();
 	void summer();
 	void subtracter();

@@ -8,7 +8,7 @@ using namespace std;
 class basicArth :public vals
 {
 public:
-	basicArth(int, int);
+	basicArth(int, int, int);
 	void add();
 	void sub();
 	void mul();

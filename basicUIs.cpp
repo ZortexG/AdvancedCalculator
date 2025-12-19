@@ -3,9 +3,10 @@
 #include<string>
 #include<cctype>
 using namespace std;
-basicUIs::basicUIs(int v1, int v2) :basicArth(v1, v2) {
+basicUIs::basicUIs(int v1, int v2, int v3) :basicArth(v1, v2, v3) {
 	this->val1 = v1;
 	this->val2 = v2;
+	this->val3 = v3;
 }
 void basicUIs::summer() {
 	this->add();

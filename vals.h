@@ -7,16 +7,18 @@ using namespace std;
 class vals
 {
 protected:
-	int val1;
-	int val2;
-	int temp;
-	int sum;
+	double val1;
+	double val2;
+	double val3;
+	double sum;
 public:
-	vals(int, int);
-	void setVal1(int);
-	void setVal2(int);
-	int getVal1();
-	int getVal2();
+	vals(double, double, double);
+	void setVal1(double);
+	void setVal2(double);
+	void setVal3(double);
+	double getVal1();
+	double getVal2();
+	double getVal3();
 	void cont();
 	void clear();
 	void print();

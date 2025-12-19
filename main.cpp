@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 #include<string>
 #include "basicUIs.h"
 using namespace std;
@@ -8,4 +8,4 @@ int main() {
 	basicUIs calc(v1, v2);
 	calc.menu();
 	return 0;
-}
+}*/
